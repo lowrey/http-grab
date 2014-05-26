@@ -9,6 +9,5 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/core.async "0.1.303.0-886421-alpha"]
                  [clj-http "0.9.1"]
-                 [clojurewerkz/urly "1.0.0"]
                 ] 
 )
